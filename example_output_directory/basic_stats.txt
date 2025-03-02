@@ -1,0 +1,15 @@
+Basic Chat Statistics
+====================
+
+total_messages: 12
+total_senders: 3
+date_range: (Timestamp('2024-08-29 19:48:05'), Timestamp('2024-11-01 21:55:43'))
+duration_days: 65
+messages_per_day: 0.18461538461538463
+text_messages: 10
+media_messages: 2
+
+Messages by sender:
+  John: 6
+  Emma: 4
+  Mike: 2

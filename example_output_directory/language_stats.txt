@@ -1,0 +1,69 @@
+Language Statistics
+==================
+
+total_words: 77
+unique_words: 58
+total_emojis: 0
+unique_emojis: 0
+
+Top words:
+  .: 7
+  !: 5
+  you: 4
+  ?: 3
+  how: 2
+  the: 2
+  new: 2
+  is: 2
+  hey: 1
+  there: 1
+  are: 1
+  doing: 1
+  great: 1
+  just: 1
+  planning: 1
+  our: 1
+  next: 1
+  trip: 1
+  congratulations: 1
+  on: 1
+  job: 1
+  feel: 1
+  free: 1
+  to: 1
+  write: 1
+  without: 1
+  abbreviations: 1
+  here: 1
+  learning: 1
+  a: 1
+  language: 1
+  always: 1
+  exciting: 1
+  happy: 1
+  birthday: 1
+  wishing: 1
+  all: 1
+  best: 1
+  thank: 1
+  so: 1
+  much: 1
+  we: 1
+  're: 1
+  currently: 1
+  traveling: 1
+  in: 1
+  croatia: 1
+  have: 1
+  been: 1
+  any: 1
+  updates: 1
+  everything: 1
+  going: 1
+  well: 1
+  work: 1
+  and: 1
+  studies: 1
+  continue: 1
+
+Top emojis:
